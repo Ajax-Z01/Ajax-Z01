@@ -57,11 +57,11 @@
 ---
 
 ## 🚀 Recent Projects:
-### 🔹 [SPKLU Microservices](https://github.com/Ajax-Z01/spklu-microservices)
-A microservices-based system for managing **electric vehicle charging stations**.
+### 🔹 [BulletinBoard](https://github.com/Ajax-Z01/bulletinboard)
+A **Java-based** bulletin board system that allows users to **post, view, and manage messages** in an organized way.
 
-### 🔹 [IA-Lab Web Platform](https://github.com/Ajax-Z01/ia-lab-website)
-Developed a web-based **Internet Accelerator Laboratory** system using Laravel.
+### 🔹 [GoBudget Backend](https://github.com/Ajax-Z01/gobudget-backend)
+A **Golang-powered** backend API for the **GoBudget** personal finance tracking application, integrated with PostgreSQL.
 
-### 🔹 [IoT-Based Temperature Monitoring System](https://github.com/Ajax-Z01/iot-temperature-monitoring)
-An IoT project for **real-time temperature monitoring** using ESP32 and Firebase.
+### 🔹 [GoBudget Frontend](https://github.com/Ajax-Z01/gobudget-frontend)
+A **Next.js + React** frontend for **GoBudget**, featuring a modern UI built with **Tailwind CSS** and seamless API integration.
