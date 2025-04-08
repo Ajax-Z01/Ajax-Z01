@@ -28,13 +28,11 @@
 
 ### 🚀 Frameworks & Libraries:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-%23D87519.svg?style=flat&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Flowbite](https://img.shields.io/badge/Flowbite-%23007bff.svg?style=flat&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=flat&logo=thymeleaf&logoColor=white)
@@ -54,7 +52,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ### 🌐 API & Integration:
-![REST](https://img.shields.io/badge/REST-005571?style=flat)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%230095d5.svg?style=flat&logo=openapiinitiative&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=axios&logoColor=white)
 
@@ -73,6 +70,9 @@
 ---
 
 ## 🚀 Recent Projects:
+### 🔹 [TaskAI](https://github.com/Ajax-Z01/taskai)  
+A **FastAPI + SvelteKit** application for **task management enhanced by AI**, supporting features like task details, comments, attachments, and analytical reports with interactive charts.
+
 ### 🔹 [BulletinBoard](https://github.com/Ajax-Z01/bulletinboard)
 A **Java-based** bulletin board system that allows users to **post, view, and manage messages** in an organized way.
 
